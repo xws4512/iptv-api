@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/xws4512/iptv-api/master/output/user_result.m3u
 https://raw.githubusercontent.com/xws4512/iptv-api/master/output/user_result.txt
 ```
 
-或
+或代理地址
 
 ```bash
 https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.m3u
@@ -96,7 +96,7 @@ https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.txt
 https://raw.githubusercontent.com/xws4512/iptv-api/master/source.json
 ```
 
-或
+或代理地址
 
 ```bash
 https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/source.json
