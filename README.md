@@ -68,8 +68,41 @@
 - ✅ 定时执行，北京时间每日 6:00 与 18:00 执行更新
 - ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)
 - ✨ 更多功能请见[配置参数](#配置)
+## 个人使用订阅节点
 
-## 最新结果
+- 接口源：
+
+```bash
+https://raw.githubusercontent.com/xws4512/iptv-api/master/output/user_result.m3u
+```
+
+```bash
+https://raw.githubusercontent.com/xws4512/iptv-api/master/output/user_result.txt
+```
+
+或
+
+```bash
+https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.m3u
+```
+
+```bash
+https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.txt
+```
+
+- 数据源：
+
+```bash
+https://raw.githubusercontent.com/xws4512/iptv-api/master/source.json
+```
+
+或
+
+```bash
+https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/source.json
+```
+
+## 原仓库最新结果
 
 - 接口源：
 
