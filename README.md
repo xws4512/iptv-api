@@ -90,6 +90,16 @@ https://gcore.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.m3u
 https://gcore.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.txt
 ```
 
+或国内giee地址
+
+```bash
+https://gitee.com/xws4512/iptv-api/raw/master/output/user_result.m3u
+```
+
+```bash
+https://gitee.com/xws4512/iptv-api/raw/master/output/user_result.txt
+```
+
 - 数据源：
 
 ```bash
