@@ -83,11 +83,11 @@ https://raw.githubusercontent.com/xws4512/iptv-api/master/output/user_result.txt
 或代理地址
 
 ```bash
-https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.m3u
+https://gcore.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.m3u
 ```
 
 ```bash
-https://cdn.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.txt
+https://gcore.jsdelivr.net/gh/xws4512/iptv-api@master/output/user_result.txt
 ```
 
 - 数据源：
