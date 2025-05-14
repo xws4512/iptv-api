@@ -89,6 +89,34 @@
 - 默认
 
 ```bash
+https://raw.githubusercontent.com/xws4512/iptv-api/refs/heads/master/output/user_result.m3u
+```
+```bash
+https://raw.githubusercontent.com/xws4512/iptv-api/refs/heads/master/output/user_result.txt
+```
+- IPv6
+
+```bash
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+```
+
+- IPv4
+
+```bash
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+```
+
+
+
+
+
+
+
+### 直播源
+
+- 默认
+
+```bash
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 ```
 
