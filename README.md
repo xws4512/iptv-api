@@ -84,7 +84,29 @@
 > [!IMPORTANT]\
 > 以下地址国内可能无法稳定访问，推荐在前拼接代理地址使用，公众号可回复`cdn`获取
 
-### 直播源
+### 希望是的直播源
+
+- 国内giee
+
+
+```bash
+https://gitee.com/xws4512/iptv-api/raw/master/output/user_result.m3u
+```
+```bash
+https://gitee.com/xws4512/iptv-api/raw/master/output/user_result.txt
+```
+- IPv6
+
+```bash
+https://gitee.com/xws4512/iptv-api/raw/master/output/ipv6/result.m3u
+```
+
+- IPv4
+
+```bash
+https://gitee.com/xws4512/iptv-api/raw/master/output/ipv4/result.m3u
+```
+
 
 - 默认
 
@@ -97,13 +119,13 @@ https://raw.githubusercontent.com/xws4512/iptv-api/refs/heads/master/output/user
 - IPv6
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+https://raw.githubusercontent.com/xws4512/iptv-api/refs/heads/master/output/ipv6/result.m3u
 ```
 
 - IPv4
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/xws4512/iptv-api/refs/heads/master/output/ipv4/result.m3u
 ```
 
 
